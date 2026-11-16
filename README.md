@@ -1,4 +1,4 @@
-# 🔐 Smart Lab Access & Automation System (ESP32 + IoT MQTT)
+# 🔐 Smart Lab Access & Automation System (Kelompok Ubur - ubur)
 
 Sistem kontrol akses pintu laboratorium dan otomatisasi ruangan berbasis **ESP32** yang disimulasikan di **Wokwi** dan terintegrasi dengan **MQTT (`broker.hivemq.com`)**.
 
